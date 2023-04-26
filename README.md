@@ -20,7 +20,7 @@ The model will assist the drivers by recognizing the traffic sign </br>
 Traffic sign recognition has become an important research topic in the area of convolution neural network </br>
 In the future, we will implement the traffic sign capture and  recognition over video datasets </br>
 </br> 
-<h3> Technologies and libraries used </h3>
+<h3> Technologies and libraries </h3>
 Python </br>
 Numpy </br>
 Pandas </br>
@@ -34,7 +34,7 @@ Translate </br>
 PlaySound </br>
 PIL </br>
 </br>
-<h3> Environment Needed </h3>
+<h3> Environment Required </h3>
 Must create new environment with Tensorflow and Keras installation in anaconda </br>
 Use same Tensorflow environment in terminal to run app in local machine </br>
 Create Flask environemnt to run our web.py python app and its launching page index.html </br>
