@@ -1,5 +1,12 @@
 <h1> traffic-sign-recognition </h1>
 
+<h3> Video Link </h3> </br>
+
+https://umsystem.zoom.us/rec/play/e7Vhcgalb4k_0xA1BOgvBx-Ui6deYWkaVf3GdWMaevIuQtomPIDAorgVgtfAdLiz_dyUjmSbh-4B31g2.2kn-v0eM1OsjEVLa
+
+</br>
+
+
 </br>
 <h3> Description </h3>
 Traffic sign recongnition is a system used in self driving cars and driving assistance systems for automatic detection of various traffic signs and act or guide according to the sign</br>
