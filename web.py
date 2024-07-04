@@ -9,7 +9,7 @@ from playsound import  playsound
 from translate import Translator
 
 
-#ceate a flsk app
+#ceate a flask app
 app = Flask(__name__)
 
 #Method to predict the test image from upload option
